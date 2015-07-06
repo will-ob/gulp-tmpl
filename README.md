@@ -1,4 +1,4 @@
-gulp-tmpl
+gulp-tmplt
 ==============
 
 Html partials in jst.
@@ -6,10 +6,10 @@ Html partials in jst.
 Install
 -----------
 
-Install with [npm](https://npmjs.org/package/gulp-tmpl)
+Install with [npm](https://npmjs.org/package/gulp-tmplt)
 
 ```javascript
-npm install --save-dev gulp-tmpl
+npm install --save-dev gulp-tmplt
 ```
 
 Usage
@@ -24,9 +24,9 @@ touch _content-1.html
 touch _content-2.html
 touch _content-3.html
 touch _footer.html
-
 touch index.tmpl
-cat <<EOT >> index.tml
+
+cat <<EOT >> index.tmpl
 <!DOCTYPE html>
 <html><head><title></title></head>
 <body>
