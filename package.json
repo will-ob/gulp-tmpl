@@ -1,5 +1,5 @@
 {
-  "name": "gulp-tmpl",
+  "name": "gulp-tmplt",
   "version": "0.1.0",
   "description": "Make same-directory partials available in jst templates",
   "main": "index.js",
