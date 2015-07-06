@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/will-ob/gulp-tmpl"
+    "url": "git://github.com/will-ob/gulp-tmplt"
   },
   "keywords": [
     "gulpplugin"
@@ -16,7 +16,7 @@
   "author": "Will O'Brien <will.obrien@dibit.co>",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/will-ob/gulp-tmpl/issues"
+    "url": "https://github.com/will-ob/gulp-tmplt/issues"
   },
   "dependencies": {
     "gulp-util": "~2.2.14",
