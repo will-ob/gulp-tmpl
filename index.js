@@ -28,7 +28,7 @@ module.exports = function(opts){
 
       fs.readdir(dir, function(err, files){
         var data = {},
-            re = /^_(.+)\.html$/,
+            re = opts.re || /^_(.+)\.html$/,
             x;
 
         _.each(files, function(basename){
